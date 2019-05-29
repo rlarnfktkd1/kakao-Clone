@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/chat_homework/static/js/main.c98d64af.chunk.js",
+    "main.js.map": "/chat_homework/static/js/main.c98d64af.chunk.js.map",
+    "runtime~main.js": "/chat_homework/static/js/runtime~main.90208fb0.js",
+    "runtime~main.js.map": "/chat_homework/static/js/runtime~main.90208fb0.js.map",
+    "static/js/2.34d2dc25.chunk.js": "/chat_homework/static/js/2.34d2dc25.chunk.js",
+    "static/js/2.34d2dc25.chunk.js.map": "/chat_homework/static/js/2.34d2dc25.chunk.js.map",
+    "index.html": "/chat_homework/index.html",
+    "precache-manifest.d9054cddc0684cd07994189d8689784f.js": "/chat_homework/precache-manifest.d9054cddc0684cd07994189d8689784f.js",
+    "service-worker.js": "/chat_homework/service-worker.js"
+  }
+}
