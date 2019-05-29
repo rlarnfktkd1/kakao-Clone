@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/kakao_clone2/static/js/main.c98d64af.chunk.js",
-    "main.js.map": "/kakao_clone2/static/js/main.c98d64af.chunk.js.map",
-    "runtime~main.js": "/kakao_clone2/static/js/runtime~main.40de0d59.js",
-    "runtime~main.js.map": "/kakao_clone2/static/js/runtime~main.40de0d59.js.map",
-    "static/js/2.9777e660.chunk.js": "/kakao_clone2/static/js/2.9777e660.chunk.js",
-    "static/js/2.9777e660.chunk.js.map": "/kakao_clone2/static/js/2.9777e660.chunk.js.map",
-    "index.html": "/kakao_clone2/index.html",
-    "precache-manifest.977038000df17da4a05dbb67d9209aba.js": "/kakao_clone2/precache-manifest.977038000df17da4a05dbb67d9209aba.js",
-    "service-worker.js": "/kakao_clone2/service-worker.js"
+    "main.js": "/kakao_Clone/static/js/main.c98d64af.chunk.js",
+    "main.js.map": "/kakao_Clone/static/js/main.c98d64af.chunk.js.map",
+    "runtime~main.js": "/kakao_Clone/static/js/runtime~main.f7e3f01e.js",
+    "runtime~main.js.map": "/kakao_Clone/static/js/runtime~main.f7e3f01e.js.map",
+    "static/js/2.29c75fca.chunk.js": "/kakao_Clone/static/js/2.29c75fca.chunk.js",
+    "static/js/2.29c75fca.chunk.js.map": "/kakao_Clone/static/js/2.29c75fca.chunk.js.map",
+    "index.html": "/kakao_Clone/index.html",
+    "precache-manifest.f1b574933fd0802f6a43daa3f3a79d36.js": "/kakao_Clone/precache-manifest.f1b574933fd0802f6a43daa3f3a79d36.js",
+    "service-worker.js": "/kakao_Clone/service-worker.js"
   }
 }
