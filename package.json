@@ -1,5 +1,5 @@
 {
-  "name": "kakao_clone2",
+  "name": "kakao_Clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rlarnfktkd1.github.io/kakao_clone2"
+  "homepage": "https://rlarnfktkd1.github.io/kakao_Clone"
 }
